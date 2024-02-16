@@ -13,6 +13,15 @@
 
 <h2 align="center">Delivering Superior Music Experience to Telegram</h2>
 
+
+
+─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sashikantlvy/AviaxMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+
 ---
 
 ### 🌟 Features
@@ -25,12 +34,6 @@
 - 🎚 **Volume Mastery:** Adjust to your preferred loudness.
 
 ---
-
-
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sashikantlvy/AviaxMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
